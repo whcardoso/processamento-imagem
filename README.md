@@ -1,25 +1,25 @@
 # Criando um Pacote de Processamento de Imagens com Python
 
-# processo de imagem
+# image_processing
 
-Descrição. 
-O pacote image_processing é usado para:
-Processamento:
-- Correspondência de histograma
-- Semelhança estrutural
-- Imagem redimensionar
+Description. 
+The package image_processing is used to:
+	Processing:
+		- Histogram matching
+		- Structural similarity
+		- Resize image
 
-Utilos:
-	- Ler Imagem
-	- Salvar Imagem
-	- Imagem do gráfico
-	- Resultado do gráfico
-	- Histograma de plotagem
+	Utils:
+		- Read image
+		- Save image
+		- Plot image
+		- Plot result
+		- Plot histogram
 
-## Instalação
+## Installation
 
-Use o gestor de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o pacote_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
-`bash
-pip instalar pacote_name
-`
+```bash
+pip install image_processing
+```
